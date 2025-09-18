@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <div align="center">
-  <h1>👋 Olá! Eu sou Anthony Perotti</h1>
+  <h1>👋 Olá! Me chamo Anthony Perotti</h1>
   <p>Desenvolvedor apaixonado por CAD, bancos de dados e automação</p>
 </div>
 
